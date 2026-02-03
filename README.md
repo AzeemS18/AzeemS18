@@ -54,8 +54,7 @@ I'm a passionate CSBS student with a strong drive for building impactful tech so
 
 ## 📫 Let's Connect
 
-- 📧 Email: 23cb043@kpriet.ac.in  
-- 💻 GitHub: [@Karanmehra7107](https://github.com/Karanmehra7107) *(project repository)*  
+- 📧 Email: 23cb043@kpriet.ac.in   
 - 🔗 LinkedIn: [linkedin.com/in/salih-azeem-s](#) *(add your actual link)*
 
 ---

@@ -1,79 +1,80 @@
-# 👋 Hi, I'm Salih Azeem S!
+👋 Hi, I'm Salih Azeem S!
+🎓 Computer Science and Business Systems Student | 💡 Innovator | 🎤 Public Speaker | 👨‍💻 Developer
+📍 KPR Institute of Engineering and Technology
+🔭 Exploring AI, Computer Vision, Generative AI & Disaster Tech
 
-🎓 Computer Science and Business Systems Student | 💡 Innovator | 🎤 Public Speaker | 👨‍💻 Developer  
-📍 KPR Institute of Engineering and Technology | 🔭 Exploring AI, Computer Vision & Disaster Tech
+🚀 About Me
+I am a results-driven CSBS student passionate about building real-world solutions using AI, cloud, and emerging technologies. I actively participate in hackathons, research, and leadership initiatives, aiming to create scalable and impactful innovations.
 
----
+💼 Secretary – IEEE KPRIET Student Branch
+🌐 Coordinator – Vyaba Tech, CSBS Department
+🧠 AI Enthusiast | Full Stack Developer | Problem Solver
 
-## 🚀 About Me
+🧾 Certifications
+🧠 Python Associate Developer – MongoDB
 
-I'm a passionate CSBS student with a strong drive for building impactful tech solutions and leading with purpose. From organizing national-level hackathons to winning competitions across the country, I thrive on challenges that combine technology, creativity, and leadership.
+🤖 Machine Learning and Deep Learning – NPTEL
 
-💼 **Secretary at IEEE KPRIET SB**  
-🌐 **Coordinator of Vyaba Tech, CSBS Department**  
-🧠 **Hackathon Enthusiast | AI Researcher | Visionary Developer**
+💡 AI for Beginners – HP
 
----
+🏗️ Training a New Model – Infosys
 
-## 🏆 Achievements
+📊 Business Ethics – NPTEL
 
-- 🥇 **Winner** – Garuda India Hackathon, Kanyakumari  
-- 🥈 **Runner-up** – Adya Hackathon, Coimbatore  
-- 🥈 **Runner-up** – Global Hackathon, Hyderabad  
-- 🏅 **Top 6 Finalist** – ImpactX 2.0 Hackathon, Chennai  
-- 🥇 **1st Place (Line Follower)** & 🥈 **2nd Place (Drone Race)** – Krishnecs2k24, SKCT
+☁️ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
----
+🗄️ Oracle Data Platform 2025 Certified Foundations Associate
 
-## 📚 Projects
+🚀 AWS Cloud Quest Generative AI Practitioner – AWS
 
-- 🌦️ **Weather App** – Real-time data with pollution insights, historical weather, geolocation & dynamic backgrounds  
-- 🧠 **AI-Based Medical Diagnosis** – Intelligent health prediction system  
-- 🚁 **AI Swarm Intelligence for Drones** – Collaborative disaster response drones using LLMs & sensor fusion  
-- 🔥 **LLM for Disaster Management** – Smart early warning, communication & rescue support system
+🏆 Achievements
+🥇 Winner – Garuda India Hackathon, Kanyakumari
 
----
+🥇 Winner – GCC SHIFTX Hackathon (6S Consulting Pvt. Ltd.)
 
-## 🧰 Tech Stack
+🥇 Winner – Cryptera’25 Hackathon (CIT Coimbatore)
 
-**Languages:** Python, JavaScript, Kotlin, SQL  
-**Frameworks & Tools:** React.js, Node.js, Flask, OpenCV, Tailwind CSS  
-**AI & ML:** OpenAI GPT, YOLO, TensorFlow, Scikit-learn  
-**Others:** Firebase, MongoDB, Docker, Git
+🥇 Winner – Idea Pitch (IEEE QT3 18.0, Coimbatore)
 
----
+🥇 Winner – Project Presentation (Erode Sengunthar Engineering College)
 
-## 🌟 Roles & Contributions
+🥈 Runner-Up – Global Hackathon, Hyderabad
 
-- 📢 **Public Speaking** – Strong communicator & orator with experience in panels, hosting & presentations  
-- 🧩 **IEEE Contributions** – Event lead, content writer, media team & WIE volunteer  
-- 🧑‍🏫 **Workshop & Training Organizer** – Officer Training, Pathfinder, CAPABLE Full Stack sessions  
-- 🧪 **Research & Development** – Computer vision in disaster management, real-time AI systems
+🥈 Runner-Up – IEEE Summit Coding Competition, Hyderabad
 
----
+🥈 Runner-Up – Drone Race (SKCET, Coimbatore)
 
-## 📫 Let's Connect
+🥈 Runner-Up – BYTZTROM’25 Hackathon (MSEC, Ramanathapuram)
 
-- 📧 Email: 23cb043@kpriet.ac.in   
-- 🔗 LinkedIn: [linkedin.com/in/salih-azeem-s](#) *(add your actual link)*
+🥈 Runner-Up – SpectraX Project Expo (KPRIET)
 
----
+🏅 4th Place – InnovSense (KPRIET)
 
-> “Turning ideas into innovation, and innovation into impact.” 🚀
+🏁 National Finalist – ABB EngineeredX Hackathon
 
-## Hi there 👋
+💻 Tech Stack
+Languages: Java, Python, JavaScript, SQL
+Web: HTML, CSS, React, Node.js
+AI/ML: TensorFlow, OpenCV, Deep Learning
+Cloud: AWS, Oracle Cloud
+Tools: Git, MongoDB, Firebase
 
-<!--
-**AzeemS18/AzeemS18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Projects
+🔹 AI-Based Medical Diagnosis System
+🔹 Disaster Management using AI & Computer Vision
+🔹 Weather Intelligence Web App (with pollution & analytics)
+🔹 Drone-based AI Swarm Intelligence System
 
-Here are some ideas to get you started:
+📈 Leadership & Experience
+Organized HackXelerate’25 (950+ participants, 24-hour national hackathon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core member of IEEE events, WIE, and technical workshops
+
+Active contributor in Software Development & Technical Communities
+
+📫 Connect With Me
+📧 Email: 23cb043@kpriet.ac.in
+🔗 GitHub: https://github.com/your-username
+
+⚡ Fun Fact
+I don’t just participate in hackathons — I win, lead, and build solutions that matter.

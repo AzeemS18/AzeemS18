@@ -9,7 +9,6 @@ I am a results-driven CSBS student passionate about building real-world solution
 💼 Secretary – IEEE KPRIET Student Branch
 🌐 Coordinator – Vyaba Tech, CSBS Department
 🧠 AI Enthusiast | Full Stack Developer | Problem Solver
-
 🧾 Certifications
 🧠 Python Associate Developer – MongoDB
 🤖 Machine Learning and Deep Learning – NPTEL

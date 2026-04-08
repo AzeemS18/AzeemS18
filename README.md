@@ -22,6 +22,8 @@ I am a results-driven CSBS student passionate about building real-world solution
 
 🏆 Achievements
 🥇 Winner – Garuda India Hackathon, Kanyakumari
+
+
 🥇 Winner – GCC SHIFTX Hackathon (6S Consulting Pvt. Ltd.)
 🥇 Winner – Cryptera’25 Hackathon (CIT Coimbatore)
 🥇 Winner – Idea Pitch (IEEE QT3 18.0, Coimbatore)
